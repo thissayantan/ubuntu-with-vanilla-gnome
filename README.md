@@ -45,7 +45,3 @@ These scripts are provided as-is and without any warranty. Please use them at yo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README file according to your specific requirements and preferences.
