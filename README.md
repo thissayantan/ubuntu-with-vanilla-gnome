@@ -1,4 +1,4 @@
-# Install vanilla Gnome on Ubuntu
+# Install Vanilla Gnome on Ubuntu
 
 This repository contains two shell script files: `remove-snap.sh` and `install-vanilla-gnome.sh`. These scripts perform specific actions related to system configuration on a Linux-based operating system.
 
